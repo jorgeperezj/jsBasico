@@ -4,7 +4,7 @@
 
 var frutas = []; // Array Literal Syntax 
 
-var frutas = ["Manzana", "Platano", "Cereza", "Fresa"]; 
+var frutas = ["Manzana", "Platano", "Cereza", "Fresa"];
 console.log(frutas); 
 console.log(frutas.length); // length es una propiedad del array
 
